@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "cuisine": "Italian",
+    "name": "Mario Batali",
+    "image_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683139991~exp=1683140591~hmac=15c6930062e047b2cdd310923135b44a10fa66c22d1f29569f635596722a087e",
+    "likes": 1000,
+    "contact": {
+      "email": "mario@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 25,
+    "number_of_recipes": 500,
+    "bio": "Mario Batali is an Italian-American chef, restaurateur, writer, and television personality. He is the owner of several restaurants in the United States and has published numerous cookbooks. Batali is known for his expertise in Italian cuisine and has been honored with many awards for his contributions to the culinary world."
+  },
+  {
+    "id": 2,
+    "cuisine": "Italian",
+    "name": "Massimo Bottura",
+    "image_url": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=740&t=st=1683140028~exp=1683140628~hmac=f9d22283e2004e6b12fd23b362e5dd81ab8185ec7a1e49249cc9a84136fc4ecb",
+    "likes": 1500,
+    "contact": {
+      "email": "massimo@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 30,
+    "number_of_recipes": 700,
+    "bio": "Massimo Bottura is an Italian chef and owner of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine and has been recognized as one of the world's best chefs. Bottura has also been involved in social projects aimed at reducing food waste and promoting sustainability."
+  },
+  {
+    "id": 3,
+    "cuisine": "Italian",
+    "name": "Lidia Bastianich",
+    "image_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683140039~exp=1683140639~hmac=aa67963589126ba65bafa0a726715670339468cede33486bfa965f20c144d0f9",
+    "likes": 1200,
+    "contact": {
+      "email": "lidia@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 40,
+    "number_of_recipes": 800,
+    "bio": "Lidia Bastianich is an Italian-American chef, author, and television personality. She is the owner of several restaurants in the United States and has written many cookbooks. Bastianich is known for her simple and authentic Italian dishes and has been honored with numerous awards for her contributions to the culinary world."
+  },
+  {
+    "id": 4,
+    "cuisine": "Italian",
+    "name": "Gennaro Contaldo",
+    "image_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683140045~exp=1683140645~hmac=06569fdada09cb9b96d820c0eabc44c3dfb78fef3fdf0c4796ac4004f3da1d4f",
+    "likes": 800,
+    "contact": {
+      "email": "gennaro@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 35,
+    "number_of_recipes": 600,
+    "bio": "Gennaro Contaldo is an Italian chef and restaurateur who has been based in the United Kingdom for many years. He is known for his traditional Italian dishes and has worked in many high-profile restaurants. Contaldo has also appeared on several television shows and has written several cookbooks."
+  },
+  {
+    "id": 5,
+    "cuisine": "Italian",
+    "name": "Carlo Cracco",
+    "image_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683140051~exp=1683140651~hmac=9ab6a9b2f2af5afc3fc107f4f46d7fb6c2ccd6ee110bb91d73f671783a04bcae",
+    "likes": 1800,
+    "contact": {
+      "email": "carlo@example.com",
+      "phone": "123-456-7890"
+    },
+    "years_of_experience": 35,
+    "number_of_recipes": 550,
+    "bio": "Carlo Cracco is an Italian chef and restaurateur. He is the owner and chef of several restaurants in Italy and has authored several cookbooks. Cracco is known for his innovative approach to Italian cuisine and has won numerous awards for his contributions to the culinary world."
+  },
+  {
+    "id": 6,
+    "cuisine": "Italian",
+    "name": "Giada De Laurentiis",
+    "image_url": "https://img.freepik.com/free-photo/smiling-chef-recommended-main-course_329181-712.jpg?w=740&t=st=1683140080~exp=1683140680~hmac=9062baa61d5f08fe1260e4592658c7661ff33e6e9edfdc11badc9ae1020c3168",
+    "likes": 750,
+    "contact": {
+      "email": "giada@example.com",
+      "phone": "555-123-4567"
+    },
+    "years_of_experience": 20,
+    "number_of_recipes": 300,
+    "bio": "Giada De Laurentiis is an Italian-American chef, author, and television personality. She is the host of several cooking shows on the Food Network and has published several cookbooks. De Laurentiis is known for her Italian cuisine, particularly her pasta dishes, and has won numerous awards for her work."
+  },
+  {
+    "id": 7,
+    "name": "Fabio Viviani",
+    "image_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683140051~exp=1683140651~hmac=9ab6a9b2f2af5afc3fc107f4f46d7fb6c2ccd6ee110bb91d73f671783a04bcae",
+    "likes": 500,
+    "contact": {
+      "email": "fabio@example.com",
+      "phone": "555-987-6543"
+    },
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "bio": "Fabio Viviani is an Italian chef, restaurateur, and television personality. He has appeared on several cooking shows, including Top Chef and Cutthroat Kitchen. Viviani is known for his Italian cuisine and has published several cookbooks."
+  },
+  {
+    "id": 8,
+    "name": "Lidia Matticchio Bastianich",
+    "image_url": "https://img.freepik.com/free-photo/smiling-young-cook-uniform-pointing_171337-5335.jpg?w=740&t=st=1683140114~exp=1683140714~hmac=c99a707358ec6d3d9b770549baf745b91262ecd22fa79c4a40decc7875c8fd1f",
+    "likes": 900,
+    "contact": {
+      "email": "lidia@example.com",
+      "phone": "555-555-5555"
+    },
+    "years_of_experience": 30,
+    "number_of_recipes": 400,
+    "bio": "Lidia Matticchio Bastianich is an Italian-American chef, restaurateur, and television personality. She is the owner of several restaurants in the United States and has published numerous cookbooks. Bastianich is known for her expertise in Italian cuisine and has won several James Beard Foundation Awards for her work."
+  },
+  {
+    "id": 9,
+    "name": "Enrico Bartolini",
+    "image_url": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?w=740&t=st=1683140028~exp=1683140628~hmac=f9d22283e2004e6b12fd23b362e5dd81ab8185ec7a1e49249cc9a84136fc4ecb",
+    "likes": 450,
+    "contact": {
+      "email": "enrico@example.com",
+      "phone": "555-777-8888"
+    },
+    "years_of_experience": 18,
+    "number_of_recipes": 250,
+    "bio": "Enrico Bartolini is an Italian chef who has been awarded seven Michelin stars for his restaurants. He is known for his contemporary Italian cuisine and has appeared on several cooking shows in Italy and around the world."
+  },
+  {
+    "id": 10,
+    "name": "Aminul Islam",
+    "image_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg?w=740&t=st=1683140141~exp=1683140741~hmac=ef7e32e8d4ac49912f10de16a723f00da9448b8154ed575a83622dda1d3c1c8f",
+    "likes": 450,
+    "contact": {
+      "email": "aminul@example.com",
+      "phone": "555-000-8822"
+    },
+    "years_of_experience": 13,
+    "number_of_recipes": 250,
+    "bio": "Aminul Islam is an Italian chef who has been awarded seven Michelin stars for his restaurants. He is known for his contemporary Italian cuisine and has appeared on several cooking shows in Italy and around the world."
+  }
+]

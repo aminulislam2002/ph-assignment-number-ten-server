@@ -1,0 +1,1627 @@
+[
+  {
+    "key": "1234567890",
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "img": "https://img.freepik.com/free-photo/top-view-cheesy-pasta-white-plate_181624-23315.jpg?w=740&t=st=1683066247~exp=1683066847~hmac=3e358f379c1fc39e3c282530d9223eb1ebd44981238740a8dee0bc97bae95798",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "pancetta",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "eggs",
+        "quantity": "4"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1 cup, freshly grated"
+      },
+      {
+        "name": "Pecorino Romano cheese",
+        "quantity": "1/2 cup, freshly grated"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil.",
+      "Cook the spaghetti until al dente.",
+      "Meanwhile, in a large skillet, cook the pancetta over medium heat until crisp.",
+      "In a large bowl, whisk together the eggs, Parmesan, and Pecorino.",
+      "When the pasta is done, reserve 1 cup of the pasta cooking water.",
+      "Drain the pasta and immediately add it to the skillet with the pancetta.",
+      "Remove the skillet from the heat and let it cool for 1-2 minutes.",
+      "Add the egg and cheese mixture to the skillet and toss until the pasta is coated.",
+      "If the pasta seems dry, add a little of the reserved cooking water.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "key": "9876543210",
+    "id": 1,
+    "title": "Margherita Pizza",
+    "img": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=740&t=st=1683066052~exp=1683066652~hmac=07b57b6503a027b9c3cfc17c708c420586ae4530c00c77fbb9b9993b13650c44",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "as needed"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F.",
+      "Stretch the pizza dough out to a 12-inch circle and place it on a baking sheet or pizza stone.",
+      "Spread the tomato sauce evenly over the dough, leaving a 1-inch border around the edge.",
+      "Slice the mozzarella and arrange it on top of the sauce.",
+      "Drizzle with olive oil and season with salt and pepper to taste.",
+      "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 1,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "key": "1357924680",
+    "id": 2,
+    "title": "Lasagna",
+    "img": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?w=740&t=st=1683065060~exp=1683065660~hmac=55c04186de1e9b5151c39d465f561872fa63d2a682bddc2118a2f579b5ba46a5",
+    "ingredients": [
+      {
+        "name": "lasagna noodles",
+        "quantity": "12-15"
+      },
+      {
+        "name": "ground beef",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "Italian sausage",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves, minced"
+      },
+      {
+        "name": "canned diced tomatoes",
+        "quantity": "28 ounces"
+      },
+      {
+        "name": "tomato paste",
+        "quantity": "6 ounces"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "ricotta cheese",
+        "quantity": "15 ounces"
+      },
+      {
+        "name": "mozzarella cheese",
+        "quantity": "2 cups, shredded"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1/2 cup, grated"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Cook the lasagna noodles according to package instructions, and set aside.",
+      "In a large skillet over medium-high heat, cook the ground beef, sausage, onion, and garlic until browned.",
+      "Drain any excess fat, then add the diced tomatoes, tomato paste, and fresh basil to the skillet.",
+      "Simmer for 10-15 minutes, or until the sauce has thickened.",
+      "In a separate bowl, mix together the ricotta cheese, mozzarella cheese, Parmesan cheese, eggs, salt, and pepper.",
+      "To assemble the lasagna, spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+      "Add a layer of lasagna noodles, then a layer of the cheese mixture.",
+      "Repeat layers until all ingredients are used up, ending with a layer of meat sauce on top.",
+      "Cover with aluminum foil and bake for 25 minutes.",
+      "Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.",
+      "Let cool for 10 minutes before serving."
+    ]
+  },
+  {
+    "key": "3698521470",
+    "id": 2,
+    "title": "Roasted Brussel Sprouts with Balsamic Glaze",
+    "img": "https://img.freepik.com/free-photo/hot-spicy-stew-eggplant-korean-style-with-green-onion_2829-10984.jpg?w=740&t=st=1683066318~exp=1683066918~hmac=d8c9c27af49f9d9eed9e505e38a80377f850c2102c4e8e7f467981e3018a478a",
+    "ingredients": [
+      {
+        "name": "Brussel sprouts",
+        "quantity": "1 lb"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "1/4 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Trim the ends off the Brussel sprouts and remove any yellow leaves.",
+      "Cut the sprouts in half and place them in a bowl.",
+      "In a separate bowl, whisk together the olive oil, balsamic vinegar, honey, salt, and pepper.",
+      "Pour the mixture over the Brussel sprouts and toss to coat.",
+      "Spread the Brussel sprouts out on a baking sheet in a single layer.",
+      "Roast for 20-25 minutes, stirring halfway through, or until the sprouts are tender and caramelized.",
+      "Serve hot and enjoy!"
+    ]
+  },
+  {
+    "key": "1472583690",
+    "id": 2,
+    "title": "Chocolate Chip Cookies",
+    "img": "https://img.freepik.com/free-photo/top-view-cookies-chocolate-chips-bowl_23-2148654540.jpg?w=740&t=st=1683066403~exp=1683067003~hmac=47131e51e4ffb583af4dc1589bc4e795645d482e84f4b0544604c8e8811a4b9e",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "quantity": "2 1/4 cups"
+      },
+      {
+        "name": "baking soda",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "unsalted butter, at room temperature",
+        "quantity": "1 cup (2 sticks)"
+      },
+      {
+        "name": "granulated sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "name": "brown sugar",
+        "quantity": "3/4 cup, packed"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "large eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "semisweet chocolate chips",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F.",
+      "In a medium bowl, whisk together the flour, baking soda, and salt.",
+      "In a large bowl, beat the butter, granulated sugar, brown sugar, and vanilla extract together until creamy.",
+      "Add the eggs one at a time, beating well after each addition.",
+      "Gradually beat in the flour mixture.",
+      "Stir in the chocolate chips.",
+      "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
+      "Bake for 10-12 minutes, or until golden brown.",
+      "Cool on the baking sheets for 2 minutes before transferring to wire racks to cool completely."
+    ]
+  },
+  {
+    "key": "2345678901",
+    "id": 3,
+    "title": "Pizza Margherita",
+    "img": "https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=740&t=st=1683066108~exp=1683066708~hmac=1498285cbeb3b41d12bef4dbc88ff7d66e7a1d2bad9a6cebb64057e38ed94525",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "canned San Marzano tomatoes",
+        "quantity": "1 can"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 500°F.",
+      "Open the can of San Marzano tomatoes and pour them into a bowl.",
+      "Use a fork or potato masher to crush the tomatoes until they are smooth.",
+      "Add minced garlic and salt to the tomato sauce and mix well.",
+      "Roll out the pizza dough on a floured surface to a 12-inch circle.",
+      "Transfer the dough to a pizza pan or baking sheet.",
+      "Spread the tomato sauce over the dough, leaving a small border around the edges.",
+      "Slice the mozzarella cheese and arrange it on top of the sauce.",
+      "Drizzle the pizza with olive oil.",
+      "Bake the pizza for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Remove the pizza from the oven and let it cool for a few minutes.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "1357924680",
+    "id": 3,
+    "title": "Bruschetta",
+    "img": "https://img.freepik.com/free-photo/sandwich-with-avocado-red-cabbage-it_188544-21425.jpg?w=826&t=st=1683065881~exp=1683066481~hmac=77c0f52c0e374f3c69c782a35a1110caca2d31cb95910a99a14fddf0e7bb884d",
+    "ingredients": [
+      {
+        "name": "Roma tomatoes",
+        "quantity": "3, diced"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "name": "Fresh basil",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "Extra virgin olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Baguette",
+        "quantity": "1, sliced"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 350°F.",
+      "Place the sliced baguette on a baking sheet and bake for 5-7 minutes, or until lightly toasted.",
+      "In a medium bowl, mix together the diced tomatoes, minced garlic, chopped basil, balsamic vinegar, and olive oil.",
+      "Season with salt and pepper to taste.",
+      "Spoon the tomato mixture over the toasted baguette slices.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 3,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "key": "1234567890",
+    "id": 4,
+    "title": "Spaghetti Carbonara",
+    "img": "https://img.freepik.com/free-photo/sandwich-with-avocado-red-cabbage-it_188544-21425.jpg?w=826&t=st=1683065881~exp=1683066481~hmac=77c0f52c0e374f3c69c782a35a1110caca2d31cb95910a99a14fddf0e7bb884d",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "pancetta",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "eggs",
+        "quantity": "4"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1 cup, freshly grated"
+      },
+      {
+        "name": "Pecorino Romano cheese",
+        "quantity": "1/2 cup, freshly grated"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil.",
+      "Cook the spaghetti until al dente.",
+      "Meanwhile, in a large skillet, cook the pancetta over medium heat until crisp.",
+      "In a large bowl, whisk together the eggs, Parmesan, and Pecorino.",
+      "When the pasta is done, reserve 1 cup of the pasta cooking water.",
+      "Drain the pasta and immediately add it to the skillet with the pancetta.",
+      "Remove the skillet from the heat and let it cool for 1-2 minutes.",
+      "Add the egg and cheese mixture to the skillet and toss until the pasta is coated.",
+      "If the pasta seems dry, add a little of the reserved cooking water.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "key": "9876543210",
+    "id": 4,
+    "title": "Margherita Pizza",
+    "img": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=740&t=st=1683066052~exp=1683066652~hmac=07b57b6503a027b9c3cfc17c708c420586ae4530c00c77fbb9b9993b13650c44",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "as needed"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F.",
+      "Stretch the pizza dough out to a 12-inch circle and place it on a baking sheet or pizza stone.",
+      "Spread the tomato sauce evenly over the dough, leaving a 1-inch border around the edge.",
+      "Slice the mozzarella and arrange it on top of the sauce.",
+      "Drizzle with olive oil and season with salt and pepper to taste.",
+      "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 4,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "key": "1357924680",
+    "id": 6,
+    "title": "Lasagna",
+    "img": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?w=740&t=st=1683065060~exp=1683065660~hmac=55c04186de1e9b5151c39d465f561872fa63d2a682bddc2118a2f579b5ba46a5",
+    "ingredients": [
+      {
+        "name": "lasagna noodles",
+        "quantity": "12-15"
+      },
+      {
+        "name": "ground beef",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "Italian sausage",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves, minced"
+      },
+      {
+        "name": "canned diced tomatoes",
+        "quantity": "28 ounces"
+      },
+      {
+        "name": "tomato paste",
+        "quantity": "6 ounces"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "ricotta cheese",
+        "quantity": "15 ounces"
+      },
+      {
+        "name": "mozzarella cheese",
+        "quantity": "2 cups, shredded"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1/2 cup, grated"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Cook the lasagna noodles according to package instructions, and set aside.",
+      "In a large skillet over medium-high heat, cook the ground beef, sausage, onion, and garlic until browned.",
+      "Drain any excess fat, then add the diced tomatoes, tomato paste, and fresh basil to the skillet.",
+      "Simmer for 10-15 minutes, or until the sauce has thickened.",
+      "In a separate bowl, mix together the ricotta cheese, mozzarella cheese, Parmesan cheese, eggs, salt, and pepper.",
+      "To assemble the lasagna, spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+      "Add a layer of lasagna noodles, then a layer of the cheese mixture.",
+      "Repeat layers until all ingredients are used up, ending with a layer of meat sauce on top.",
+      "Cover with aluminum foil and bake for 25 minutes.",
+      "Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.",
+      "Let cool for 10 minutes before serving."
+    ]
+  },
+  {
+    "key": "1234567890",
+    "id": 5,
+    "title": "Spaghetti Carbonara",
+    "img": "https://img.freepik.com/free-photo/sandwich-with-avocado-red-cabbage-it_188544-21425.jpg?w=826&t=st=1683065881~exp=1683066481~hmac=77c0f52c0e374f3c69c782a35a1110caca2d31cb95910a99a14fddf0e7bb884d",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "pancetta",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "eggs",
+        "quantity": "4"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1 cup, freshly grated"
+      },
+      {
+        "name": "Pecorino Romano cheese",
+        "quantity": "1/2 cup, freshly grated"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil.",
+      "Cook the spaghetti until al dente.",
+      "Meanwhile, in a large skillet, cook the pancetta over medium heat until crisp.",
+      "In a large bowl, whisk together the eggs, Parmesan, and Pecorino.",
+      "When the pasta is done, reserve 1 cup of the pasta cooking water.",
+      "Drain the pasta and immediately add it to the skillet with the pancetta.",
+      "Remove the skillet from the heat and let it cool for 1-2 minutes.",
+      "Add the egg and cheese mixture to the skillet and toss until the pasta is coated.",
+      "If the pasta seems dry, add a little of the reserved cooking water.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "key": "9876543210",
+    "id": 5,
+    "title": "Margherita Pizza",
+    "img": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=740&t=st=1683066052~exp=1683066652~hmac=07b57b6503a027b9c3cfc17c708c420586ae4530c00c77fbb9b9993b13650c44",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "as needed"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F.",
+      "Stretch the pizza dough out to a 12-inch circle and place it on a baking sheet or pizza stone.",
+      "Spread the tomato sauce evenly over the dough, leaving a 1-inch border around the edge.",
+      "Slice the mozzarella and arrange it on top of the sauce.",
+      "Drizzle with olive oil and season with salt and pepper to taste.",
+      "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 5,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "key": "3698521470",
+    "id": 6,
+    "title": "Roasted Brussel Sprouts with Balsamic Glaze",
+    "img": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=740&t=st=1683065101~exp=1683065701~hmac=c0d183d8790c9c1606ede2ab7db51bcae1c9c384924f0ab3d25b5491e07fbc0b",
+    "ingredients": [
+      {
+        "name": "Brussel sprouts",
+        "quantity": "1 lb"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "1/4 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Trim the ends off the Brussel sprouts and remove any yellow leaves.",
+      "Cut the sprouts in half and place them in a bowl.",
+      "In a separate bowl, whisk together the olive oil, balsamic vinegar, honey, salt, and pepper.",
+      "Pour the mixture over the Brussel sprouts and toss to coat.",
+      "Spread the Brussel sprouts out on a baking sheet in a single layer.",
+      "Roast for 20-25 minutes, stirring halfway through, or until the sprouts are tender and caramelized.",
+      "Serve hot and enjoy!"
+    ]
+  },
+  {
+    "key": "1472583690",
+    "id": 6,
+    "title": "Chocolate Chip Cookies",
+    "img": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?w=740&t=st=1683065060~exp=1683065660~hmac=55c04186de1e9b5151c39d465f561872fa63d2a682bddc2118a2f579b5ba46a5",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "quantity": "2 1/4 cups"
+      },
+      {
+        "name": "baking soda",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "unsalted butter, at room temperature",
+        "quantity": "1 cup (2 sticks)"
+      },
+      {
+        "name": "granulated sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "name": "brown sugar",
+        "quantity": "3/4 cup, packed"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "large eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "semisweet chocolate chips",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F.",
+      "In a medium bowl, whisk together the flour, baking soda, and salt.",
+      "In a large bowl, beat the butter, granulated sugar, brown sugar, and vanilla extract together until creamy.",
+      "Add the eggs one at a time, beating well after each addition.",
+      "Gradually beat in the flour mixture.",
+      "Stir in the chocolate chips.",
+      "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
+      "Bake for 10-12 minutes, or until golden brown.",
+      "Cool on the baking sheets for 2 minutes before transferring to wire racks to cool completely."
+    ]
+  },
+  {
+    "key": "2345678901",
+    "id": 7,
+    "title": "Pizza Margherita",
+    "img": "https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=740&t=st=1683066108~exp=1683066708~hmac=1498285cbeb3b41d12bef4dbc88ff7d66e7a1d2bad9a6cebb64057e38ed94525",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "canned San Marzano tomatoes",
+        "quantity": "1 can"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 500°F.",
+      "Open the can of San Marzano tomatoes and pour them into a bowl.",
+      "Use a fork or potato masher to crush the tomatoes until they are smooth.",
+      "Add minced garlic and salt to the tomato sauce and mix well.",
+      "Roll out the pizza dough on a floured surface to a 12-inch circle.",
+      "Transfer the dough to a pizza pan or baking sheet.",
+      "Spread the tomato sauce over the dough, leaving a small border around the edges.",
+      "Slice the mozzarella cheese and arrange it on top of the sauce.",
+      "Drizzle the pizza with olive oil.",
+      "Bake the pizza for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Remove the pizza from the oven and let it cool for a few minutes.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "1357924680",
+    "id": 7,
+    "title": "Bruschetta",
+    "img": "https://img.freepik.com/free-photo/sandwich-with-avocado-red-cabbage-it_188544-21425.jpg?w=826&t=st=1683065881~exp=1683066481~hmac=77c0f52c0e374f3c69c782a35a1110caca2d31cb95910a99a14fddf0e7bb884d",
+    "ingredients": [
+      {
+        "name": "Roma tomatoes",
+        "quantity": "3, diced"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "name": "Fresh basil",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "Extra virgin olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Baguette",
+        "quantity": "1, sliced"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 350°F.",
+      "Place the sliced baguette on a baking sheet and bake for 5-7 minutes, or until lightly toasted.",
+      "In a medium bowl, mix together the diced tomatoes, minced garlic, chopped basil, balsamic vinegar, and olive oil.",
+      "Season with salt and pepper to taste.",
+      "Spoon the tomato mixture over the toasted baguette slices.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 7,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "key": "1234567890",
+    "id": 8,
+    "title": "Spaghetti Carbonara",
+    "img": "https://img.freepik.com/free-photo/sandwich-with-avocado-red-cabbage-it_188544-21425.jpg?w=826&t=st=1683065881~exp=1683066481~hmac=77c0f52c0e374f3c69c782a35a1110caca2d31cb95910a99a14fddf0e7bb884d",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "pancetta",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "eggs",
+        "quantity": "4"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1 cup, freshly grated"
+      },
+      {
+        "name": "Pecorino Romano cheese",
+        "quantity": "1/2 cup, freshly grated"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil.",
+      "Cook the spaghetti until al dente.",
+      "Meanwhile, in a large skillet, cook the pancetta over medium heat until crisp.",
+      "In a large bowl, whisk together the eggs, Parmesan, and Pecorino.",
+      "When the pasta is done, reserve 1 cup of the pasta cooking water.",
+      "Drain the pasta and immediately add it to the skillet with the pancetta.",
+      "Remove the skillet from the heat and let it cool for 1-2 minutes.",
+      "Add the egg and cheese mixture to the skillet and toss until the pasta is coated.",
+      "If the pasta seems dry, add a little of the reserved cooking water.",
+      "Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "key": "9876543210",
+    "id": 8,
+    "title": "Margherita Pizza",
+    "img": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg?w=740&t=st=1683066052~exp=1683066652~hmac=07b57b6503a027b9c3cfc17c708c420586ae4530c00c77fbb9b9993b13650c44",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1/2 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "as needed"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 450°F.",
+      "Stretch the pizza dough out to a 12-inch circle and place it on a baking sheet or pizza stone.",
+      "Spread the tomato sauce evenly over the dough, leaving a 1-inch border around the edge.",
+      "Slice the mozzarella and arrange it on top of the sauce.",
+      "Drizzle with olive oil and season with salt and pepper to taste.",
+      "Bake for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 8,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  },
+  {
+    "key": "1357924680",
+    "id": 9,
+    "title": "Lasagna",
+    "img": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?w=740&t=st=1683065060~exp=1683065660~hmac=55c04186de1e9b5151c39d465f561872fa63d2a682bddc2118a2f579b5ba46a5",
+    "ingredients": [
+      {
+        "name": "lasagna noodles",
+        "quantity": "12-15"
+      },
+      {
+        "name": "ground beef",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "Italian sausage",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "garlic",
+        "quantity": "3 cloves, minced"
+      },
+      {
+        "name": "canned diced tomatoes",
+        "quantity": "28 ounces"
+      },
+      {
+        "name": "tomato paste",
+        "quantity": "6 ounces"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "ricotta cheese",
+        "quantity": "15 ounces"
+      },
+      {
+        "name": "mozzarella cheese",
+        "quantity": "2 cups, shredded"
+      },
+      {
+        "name": "Parmesan cheese",
+        "quantity": "1/2 cup, grated"
+      },
+      {
+        "name": "eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "black pepper",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Cook the lasagna noodles according to package instructions, and set aside.",
+      "In a large skillet over medium-high heat, cook the ground beef, sausage, onion, and garlic until browned.",
+      "Drain any excess fat, then add the diced tomatoes, tomato paste, and fresh basil to the skillet.",
+      "Simmer for 10-15 minutes, or until the sauce has thickened.",
+      "In a separate bowl, mix together the ricotta cheese, mozzarella cheese, Parmesan cheese, eggs, salt, and pepper.",
+      "To assemble the lasagna, spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+      "Add a layer of lasagna noodles, then a layer of the cheese mixture.",
+      "Repeat layers until all ingredients are used up, ending with a layer of meat sauce on top.",
+      "Cover with aluminum foil and bake for 25 minutes.",
+      "Remove the foil and bake for an additional 25 minutes, or until the cheese is melted and bubbly.",
+      "Let cool for 10 minutes before serving."
+    ]
+  },
+  {
+    "key": "3698521470",
+    "id": 9,
+    "title": "Roasted Brussel Sprouts with Balsamic Glaze",
+    "img": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=740&t=st=1683065101~exp=1683065701~hmac=c0d183d8790c9c1606ede2ab7db51bcae1c9c384924f0ab3d25b5491e07fbc0b",
+    "ingredients": [
+      {
+        "name": "Brussel sprouts",
+        "quantity": "1 lb"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Honey",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "1/4 tsp"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Trim the ends off the Brussel sprouts and remove any yellow leaves.",
+      "Cut the sprouts in half and place them in a bowl.",
+      "In a separate bowl, whisk together the olive oil, balsamic vinegar, honey, salt, and pepper.",
+      "Pour the mixture over the Brussel sprouts and toss to coat.",
+      "Spread the Brussel sprouts out on a baking sheet in a single layer.",
+      "Roast for 20-25 minutes, stirring halfway through, or until the sprouts are tender and caramelized.",
+      "Serve hot and enjoy!"
+    ]
+  },
+  {
+    "key": "1472583690",
+    "id": 9,
+    "title": "Chocolate Chip Cookies",
+    "img": "https://img.freepik.com/free-photo/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg?w=740&t=st=1683065060~exp=1683065660~hmac=55c04186de1e9b5151c39d465f561872fa63d2a682bddc2118a2f579b5ba46a5",
+    "ingredients": [
+      {
+        "name": "all-purpose flour",
+        "quantity": "2 1/4 cups"
+      },
+      {
+        "name": "baking soda",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "unsalted butter, at room temperature",
+        "quantity": "1 cup (2 sticks)"
+      },
+      {
+        "name": "granulated sugar",
+        "quantity": "3/4 cup"
+      },
+      {
+        "name": "brown sugar",
+        "quantity": "3/4 cup, packed"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 teaspoon"
+      },
+      {
+        "name": "large eggs",
+        "quantity": "2"
+      },
+      {
+        "name": "semisweet chocolate chips",
+        "quantity": "2 cups"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 375°F.",
+      "In a medium bowl, whisk together the flour, baking soda, and salt.",
+      "In a large bowl, beat the butter, granulated sugar, brown sugar, and vanilla extract together until creamy.",
+      "Add the eggs one at a time, beating well after each addition.",
+      "Gradually beat in the flour mixture.",
+      "Stir in the chocolate chips.",
+      "Drop rounded tablespoonfuls of dough onto ungreased baking sheets.",
+      "Bake for 10-12 minutes, or until golden brown.",
+      "Cool on the baking sheets for 2 minutes before transferring to wire racks to cool completely."
+    ]
+  },
+  {
+    "key": "2345678901",
+    "id": 10,
+    "title": "Pizza Margherita",
+    "img": "https://img.freepik.com/free-photo/mix-pizza-chicken-tomato-bell-pepper-olives-mushroom-side-view_141793-3167.jpg?w=740&t=st=1683066108~exp=1683066708~hmac=1498285cbeb3b41d12bef4dbc88ff7d66e7a1d2bad9a6cebb64057e38ed94525",
+    "ingredients": [
+      {
+        "name": "pizza dough",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "canned San Marzano tomatoes",
+        "quantity": "1 can"
+      },
+      {
+        "name": "fresh mozzarella cheese",
+        "quantity": "1 pound"
+      },
+      {
+        "name": "fresh basil leaves",
+        "quantity": "a handful"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 500°F.",
+      "Open the can of San Marzano tomatoes and pour them into a bowl.",
+      "Use a fork or potato masher to crush the tomatoes until they are smooth.",
+      "Add minced garlic and salt to the tomato sauce and mix well.",
+      "Roll out the pizza dough on a floured surface to a 12-inch circle.",
+      "Transfer the dough to a pizza pan or baking sheet.",
+      "Spread the tomato sauce over the dough, leaving a small border around the edges.",
+      "Slice the mozzarella cheese and arrange it on top of the sauce.",
+      "Drizzle the pizza with olive oil.",
+      "Bake the pizza for 10-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+      "Remove the pizza from the oven and let it cool for a few minutes.",
+      "Garnish with fresh basil leaves and serve hot."
+    ]
+  },
+  {
+    "key": "1357924680",
+    "id": 10,
+    "title": "Bruschetta",
+    "img": "https://img.freepik.com/free-photo/sandwich-with-avocado-red-cabbage-it_188544-21425.jpg?w=826&t=st=1683065881~exp=1683066481~hmac=77c0f52c0e374f3c69c782a35a1110caca2d31cb95910a99a14fddf0e7bb884d",
+    "ingredients": [
+      {
+        "name": "Roma tomatoes",
+        "quantity": "3, diced"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "name": "Fresh basil",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "Extra virgin olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Freshly ground black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Baguette",
+        "quantity": "1, sliced"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 350°F.",
+      "Place the sliced baguette on a baking sheet and bake for 5-7 minutes, or until lightly toasted.",
+      "In a medium bowl, mix together the diced tomatoes, minced garlic, chopped basil, balsamic vinegar, and olive oil.",
+      "Season with salt and pepper to taste.",
+      "Spoon the tomato mixture over the toasted baguette slices.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "key": "2468135790",
+    "id": 10,
+    "title": "Chicken Fajitas",
+    "img": "https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683065719~exp=1683066319~hmac=33e97b5aa68570ea8a5f727b39010b0640bbedefc3bb5f50f194fa2610ef5abd",
+    "ingredients": [
+      {
+        "name": "chicken breasts",
+        "quantity": "4, boneless and skinless"
+      },
+      {
+        "name": "bell peppers",
+        "quantity": "2, sliced"
+      },
+      {
+        "name": "onion",
+        "quantity": "1, sliced"
+      },
+      {
+        "name": "olive oil",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "taco seasoning",
+        "quantity": "2 tablespoons"
+      },
+      {
+        "name": "flour tortillas",
+        "quantity": "8"
+      },
+      {
+        "name": "sour cream",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "shredded cheddar cheese",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "salsa",
+        "quantity": "1/2 cup"
+      },
+      {
+        "name": "guacamole",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "Slice the chicken breasts into thin strips.",
+      "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+      "Add the chicken strips and cook for 5-7 minutes, or until cooked through.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the remaining tablespoon of olive oil to the skillet.",
+      "Add the sliced bell peppers and onion to the skillet and cook for 5-7 minutes, or until softened.",
+      "Add the taco seasoning to the skillet and stir to combine.",
+      "Return the chicken to the skillet and toss with the vegetables and seasoning.",
+      "Warm the flour tortillas according to package instructions.",
+      "Assemble the fajitas by placing a spoonful of the chicken and vegetable mixture onto a tortilla.",
+      "Top with a dollop of sour cream, a sprinkle of shredded cheddar cheese, a spoonful of salsa, and a dollop of guacamole.",
+      "Fold the tortilla in half and serve immediately."
+    ]
+  }
+]
